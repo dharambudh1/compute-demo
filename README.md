@@ -8,3 +8,6 @@ The `compute` function is a built-in function in the Flutter framework. It allow
 Here's a demo of fetching data from large JSON in two different ways.
 - Load Without `Compute`
 - Load Using `Compute`
+
+## Preview
+![alt text](https://i.postimg.cc/y8g6pfND/imgonline-com-ua-twotoone-9-Hi-CYJa6-Cw.png "img")

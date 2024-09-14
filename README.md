@@ -10,4 +10,4 @@ Here's a demo of fetching data from large JSON in two different ways.
 - Load Using `Compute`
 
 ## Preview
-![alt text](https://i.postimg.cc/y8g6pfND/imgonline-com-ua-twotoone-9-Hi-CYJa6-Cw.png "img")
+![alt text](https://github.com/dharambudh1/compute-demo/blob/main/Preview/imgonline-com-ua-twotoone-9HiCYJa6Cw.png "img")
